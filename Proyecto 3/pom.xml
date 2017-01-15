@@ -1,0 +1,10 @@
+
+
+<build>
+    <plugins>
+      <plugin>
+        <groupId>apache.maven.plugins<groupId>
+        <artifacId>maven-compiler-plugin>
+        <version>1.7<version>
+      <>
+     <>
